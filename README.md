@@ -160,4 +160,4 @@ By combining PCC's granular hashing with the "intelligent" health checks of recu
 
 **Path Engineering:** Policy-Based Routing (PBR) via IP Mangle rules to enforce path affinity and avoid asymmetric routing breaks
 
-*Second project down. More to come.* 🔥
+*Second project down. More to come.* 
